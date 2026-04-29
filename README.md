@@ -49,11 +49,11 @@ Insights Estratégicos
 Top 10 municípios com maior desmatamento
 Ranking de desmatamento por município
 
-<img width="1149" height="1270" alt="amazonia fluxograma" src="https://github.com/user-attachments/assets/d75093d0-3e93-4692-8d9f-5444eecdc7e5" />
+
 <img width="1895" height="966" alt="streamlit " src="https://github.com/user-attachments/assets/787bec69-c7ce-4a46-8758-cda1fb63074c" />
-<img width="1888" height="833" alt="3 municipios com maior desmatamento" src="https://github.com/user-attachments/assets/b96d3728-cb21-40e7-883a-f09c28303e52" />
 <img width="1569" height="961" alt="1" src="https://github.com/user-attachments/assets/0cb4580b-2d53-40a8-b8e6-f63b089463f6" />
 <img width="1564" height="932" alt="2" src="https://github.com/user-attachments/assets/56638456-2376-4527-a988-53c3306e3ae2" />
+<img width="1888" height="833" alt="3 municipios com maior desmatamento" src="https://github.com/user-attachments/assets/b96d3728-cb21-40e7-883a-f09c28303e52" />
 <img width="1149" height="1270" alt="amazonia fluxograma" src="https://github.com/user-attachments/assets/d75093d0-3e93-4692-8d9f-5444eecdc7e5" />
 
 
