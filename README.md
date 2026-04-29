@@ -31,18 +31,18 @@ O projeto teve como foco praticar análise de dados, ETL, cloud e construção d
 
 # 🔄 Fluxo do Projeto
 
-Kaggle CSV
-   ↓
-Python + Pandas
-   ↓
-AWS S3
-   ↓
-AWS Athena / SQL
-   ↓
-Streamlit Dashboard
-   ↓
-Insights Estratégicos
-# Desmatamento-Amazonia
+Kaggle CSV  
+   ↓  
+Python + Pandas  
+   ↓  
+AWS S3  
+   ↓  
+AWS Athena / SQL  
+   ↓  
+Streamlit Dashboard  
+   ↓  
+Insights Estratégicos  
+# Desmatamento-Amazonia  
 
 
 📊 Principais Análises
