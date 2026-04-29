@@ -59,11 +59,12 @@ Ranking de desmatamento por município
 
 
 📂 Estrutura  
-projeto-desmatamento-amazonia/  
+PROJETO-AMAZONIA-AWS/  
 │── dataset/  
+            desmatamento-amazonia.csv
 │── notebook_limpeza.ipynb  
-│── desmatamento_tratado.csv  
-│── app_streamlit.py  
+│── amazonia_tratado.csv  
+│── app.py  
 │── README.md  
 
 🚀 Principais Aprendizados
